@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c3ba2dcf-7c95-4b0c-aeec-6d0850aa30bf)
+
+
 # 🤖 Multi-AI Agent System with YouTube Channel Tool (CrewAI)
 
 A modular, agent-based system that automates YouTube content analysis and blog generation using **CrewAI** and **LLMs**. This project uses a custom YouTube tool to fetch transcripts from a channel and deploys multiple autonomous agents to handle research, writing, and editing — **without storing any data**.
